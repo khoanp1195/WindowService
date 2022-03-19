@@ -1,0 +1,8 @@
+D:\LAB-KTPM\WindowService\PlaneService\obj\Debug\PlaneService.csproj.AssemblyReference.cache
+D:\LAB-KTPM\WindowService\PlaneService\obj\Debug\PlaneService.ProjectInstaller.resources
+D:\LAB-KTPM\WindowService\PlaneService\obj\Debug\PlaneService.csproj.GenerateResource.cache
+D:\LAB-KTPM\WindowService\PlaneService\obj\Debug\PlaneService.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WindowService\PlaneService\obj\Debug\PlaneService.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\WindowService\PlaneService\obj\Debug\PlaneService.ProjectInstaller.resources
+C:\Users\admin\Desktop\WindowService\PlaneService\obj\Debug\PlaneService.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WindowService\PlaneService\obj\Debug\PlaneService.csproj.CoreCompileInputs.cache
